@@ -1,10 +1,14 @@
-title: Hexo
-subtitle: ''
-description: ''
-keywords: null
-author: John Doe
-language: en
-timezone: ''
+
+# Site
+title: yaobi
+subtitle: 小山茶
+description: 纯粹、热爱、勇敢
+keywords: Nexmoe,产品Theme,Design,Product
+tags: PHP,Golang,Vue,Hexo,Javascript,Css,Element,Nuxt,Nginx,Vuetify,Docker,Github.com,功能,创意,设计,模板,博客,指南,自学,生命,交互,方案,Firefox,Chrome,Edge,扩展,ZeroTier,Tailscale
+author: 小山茶
+timezone:
+
+language: zh-CN
 url: https://hero233-li.github.io/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null

@@ -1,6 +1,25 @@
 ---
 title: NexMoe主题使用
+tags: 主题
+category: 教程
 ---
+## 主题修改官网链接
+https://docs.nexmoe.com/v4.2/
+## 自定义头部信息
+使用Front-matter 例如
+```javascript
+---
+title: Hello World
+date: 2013/7/13 20:46:25
+cover: https://i.loli.net/2019/07/21/5d33d5dc1531213134.png
+coverWidth: 1200
+coverHeight: 750
+---
+```
+配置官网链接 https://hexo.io/docs/front-matter
+
+## 壁纸官网链接
+https://wallhaven.cc/toplist?page=11
 ## 去除外部社交链接
 需要将带有- 的部分全部删除
 ```javascript
